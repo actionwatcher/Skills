@@ -1,0 +1,4 @@
+interface:
+  display_name: "KiCad PCB Design"
+  short_description: "Prepare boards and manufacturing files"
+  default_prompt: "Use $kicad-pcb-design to prepare this board for manufacture."

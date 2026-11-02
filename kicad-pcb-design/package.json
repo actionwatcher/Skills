@@ -1,0 +1,9 @@
+{
+  "name": "kicad-pcb-design-helpers",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Render Gerber and drill files for inspection.",
+  "dependencies": {
+    "@tracespace/core": "5.0.0-alpha.0"
+  }
+}

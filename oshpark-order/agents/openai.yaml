@@ -1,0 +1,4 @@
+interface:
+  display_name: "OSH Park Orders"
+  short_description: "Prepare unpaid orders for the user to complete"
+  default_prompt: "Use $oshpark-order to prepare an unpaid order. I will enter the password and make the payment."
